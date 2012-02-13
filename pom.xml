@@ -4,11 +4,11 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bdoughan.blog</groupId>
-    <artifactId>blog.predicate</artifactId>
+    <artifactId>blog.anyelement.adapted</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
-    <name>Map to Element based on an Attribute Value with EclipseLink JAXB (MOXy) </name>
-    <url>http://blog.bdoughan.com/2011/03/map-to-element-based-on-attribute-value.html</url>
+    <name>Mapping an Arbitrary List of Objects using JAXB's @XmlAnyElement and XmlAdapter</name>
+    <url> http://blog.bdoughan.com/2012/02/xmlanyelement-and-xmladapter.html</url>
     <dependencies>
         <dependency>
             <groupId>org.eclipse.persistence</groupId>
