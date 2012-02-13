@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
     <version>1.0</version>
     <name>Mapping an Arbitrary List of Objects using JAXB's @XmlAnyElement and XmlAdapter</name>
-    <url> http://blog.bdoughan.com/2012/02/xmlanyelement-and-xmladapter.html</url>
+    <url>http://blog.bdoughan.com/2012/02/xmlanyelement-and-xmladapter.html</url>
     <dependencies>
         <dependency>
             <groupId>org.eclipse.persistence</groupId>
