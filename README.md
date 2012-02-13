@@ -3,7 +3,7 @@ Mapping an Arbitrary List of Objects using JAXB's @XmlAnyElement and XmlAdapter
 
 This is the complete source code for the following blog post:
 
-* http://blog.bdoughan.com/2012/02/
+* http://blog.bdoughan.com/2012/02/xmlanyelement-and-xmladapter.html
 
 Summary
 -------
